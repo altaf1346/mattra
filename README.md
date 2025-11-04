@@ -2,6 +2,8 @@
 
 A simple Flutter prototype simulating a smart yoga mat connection using **mock Bluetooth (BLE & Classic)**.  
 Built as part of the **Arvyax Internship Assignment**.
+[![Download APK](https://img.shields.io/badge/Download-APK-blue?style=for-the-badge&logo=android)](https://github.com/altaf1346/mattra/releases/download/v1.0/mattra.apk)
+
 
 ---
 
